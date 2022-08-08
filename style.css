@@ -81,9 +81,7 @@ input{
   background-color: #DCE2E9;
   width: 5rem;
   border-radius: .4rem 0 0 .4rem;
-}
-
-input:focus{
+  
   outline: none !important;
   border: 2px solid #6363ce;
 }
