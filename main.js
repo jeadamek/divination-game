@@ -40,7 +40,7 @@ function handleTryClick(event){
 
 function handleResetClick(){
   toggleScreen()
-  xAttempts = 1
+  xAttempts = 0
   screen1.querySelector('#inputNumber').focus()
 }
 
