@@ -15,10 +15,9 @@
 
 ## ✏️ About
 
-This is a project developed on Stage 5 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's projects [click on this link](https://github.com/jeadamek/explorer-rocketseat). 
+This project was developed on Stage 5 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course assignments click [this link](https://github.com/jeadamek/explorer-rocketseat). 
 
-
-In this project, the main goal was to understand and practice JavaScript. For that it was built a divination game, where the user must guess the random number generated. When the number was right, show the number of times the user tried to guess.
+In this project, the main goal was to understand and practice JavaScript. For that, a divination game was built. In this application, the user must guess the random number generated. When the number is right, the game shows the number of times the user tried to guess. 
 
 I could practice and study:
 
@@ -27,14 +26,13 @@ I could practice and study:
 - Callback functions;
 - JavaScript Events.
 
-
 The game can be seen in the image below:<br/>
 
 ![preview](https://user-images.githubusercontent.com/78454317/215269641-a0246ebd-70e0-4f57-b480-16558381d1d6.png)
 
 ![preview](https://user-images.githubusercontent.com/78454317/215269679-f2e0c841-c61d-426f-96d6-6dcf6ff925df.png)
 
-
+---
 
 ## 🛠️ Technologies
 
@@ -45,6 +43,7 @@ The game can be seen in the image below:<br/>
 </div>
 </br>
 
+---
 
 ## 💻 How to use
 
@@ -58,11 +57,15 @@ To access the project, click on the link below:
 🔗 [View on Figma](https://www.figma.com/file/7EeTKuevVMczzgTV90cibn/Jogo-Adivinha%C3%A7%C3%A3o-(Copy)?node-id=0%3A1)
 
 
+## 📝 License
+
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
+
 
 ## 🎯 Author
 
 <p>
-	Made by Jessica Adamek. Connect with me! 	
+	Made by Jessica Adamek &#128075 Connect with me! 	
 </p>
 <div>
   <a href="https://www.linkedin.com/in/jessica-adamek/" target="_blank">
